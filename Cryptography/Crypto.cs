@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cryptography
 {
-    class Hasher
+    class Crypto
     {
     
     /// <summary>
